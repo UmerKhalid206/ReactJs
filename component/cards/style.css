@@ -1,0 +1,87 @@
+#cardsDiv{
+    box-sizing: border-box;
+}
+#card1{
+    float: left;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;;
+    margin-top: 30px;
+    padding: 15px;
+    width: 49%;
+    height: 200px;
+    box-sizing: border-box;
+}
+#card1Text{
+    width: 60%;
+    float: left;
+}
+.blueColor{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(66, 173, 240);
+}
+
+#card1Text h2{
+    margin-top: 5px;
+    
+}
+
+.date{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small ;
+    color: gray;
+}
+
+#card1Text p{
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.cardThumbnail{
+    float: right;
+    width: 40%;
+    height: 200px;
+    position: relative;
+    top: -15px;
+    right: -15px;
+    text-align: center;
+    background-color: #343434;
+    box-sizing: border-box;
+    color: white;
+    
+
+}
+
+.cardThumbnail p{
+    margin-top: 90px;
+}
+
+
+/* card 2 styling */
+
+#card2{
+    float: right;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;;
+    margin-top: 30px;
+    padding: 15px;
+    width: 49%;
+    height: 200px;
+    box-sizing: border-box;
+}
+
+#card2Text{
+    width: 60%;
+    float: left;
+}
+
+#card2Text h2{
+    margin-top: 5px;
+    
+}
+
+#greenColor{
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+}
+
+#card2Text p{
+    margin-top: 5px;
+    margin-bottom: 15px;
+}

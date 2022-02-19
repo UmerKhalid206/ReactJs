@@ -1,0 +1,190 @@
+#mainBody{
+    position: relative;
+    top: 20px;
+    width: 69%;
+    float: left;
+}
+
+#title{
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgray;
+}
+#sampleBlog{
+    margin-top: 15px;
+}
+#dateAuthor{
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+#firstPara{
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 10px;
+}
+
+#secondPara{
+    margin-top: 15px;
+    
+}
+#thirdPara{
+    margin-top: 15px;
+}
+#fourthPara{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#fifthPara{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#sixPara{
+    margin-top: 10px;
+}
+
+#codeStock{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+#sevenPara{
+    margin-bottom: 15px;
+}
+#eightPara{
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+
+#unorderList{
+    margin-left: 35px;
+    margin-bottom: 15px;
+}
+#orderedList{
+    margin-left: 35px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#anotherBlog{
+    margin-top: 45px;
+}
+
+#authorDate2{
+    margin-top: 8px;
+}
+
+#paraEleven{
+    margin-top: 20px;
+}
+#para12{
+    margin-top: 15px;
+}
+#para13{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#newFeature{
+    margin-top: 45px;
+}
+#authorDate3{
+    margin-top: 8px;
+}
+
+#para14{
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+
+#unorderList2{
+    margin-left: 35px;
+    margin-bottom: 15px;
+}
+
+#para15{
+    margin-bottom: 15px;
+}
+
+#btnDiv{
+    margin-top: 45px;
+}
+#btn1{
+
+    margin-right: 5px;
+    padding: 8px;
+    border: 1px solid rgb(66, 173, 240);
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: small;
+    color: rgb(66, 173, 240);
+}
+#btn1:hover{
+    
+    background-color: rgb(66, 173, 240) ;
+    border-color: rgb(66, 173, 240);
+    color:whitesmoke;
+}
+
+#btn2{
+    padding: 8px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: small;
+    color: grey;
+    background-color: white;
+}
+
+#btn2:hover{
+    
+    background-color: grey ;
+    border-color: grey;
+    color:whitesmoke;
+}
+
+/* about and achieves div */
+
+#aboutAndLinksDiv{
+    width: 29%;
+    float: right;
+    position: relative;
+    top: 20px;
+}
+
+#about{
+    padding: 12px;
+    background-color: #F0F0F0;
+}
+#about p{
+    margin-top: 5px;
+}
+
+#archives{
+    padding: 12px;
+}
+#archives ul{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    list-style: none;
+}
+
+#archives ul li a{
+    text-decoration: none;
+    color:rgb(66, 173, 240)
+}
+
+
+#elsewhere{
+
+    margin-top: 25px;
+    padding: 12px;
+}
+#elsewhere ul{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    list-style: none;
+
+}
+
+#elsewhere ul li a{
+    text-decoration: none;
+    color:rgb(66, 173, 240)
+}

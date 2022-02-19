@@ -1,0 +1,19 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    width: 80%;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+#headContent{
+
+    background-color: black;
+    
+    padding: 30px;
+    color: white;
+}
+
+#headContent p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
